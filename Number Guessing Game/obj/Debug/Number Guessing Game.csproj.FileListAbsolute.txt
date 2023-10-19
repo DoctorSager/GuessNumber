@@ -1,0 +1,10 @@
+C:\Users\DoctorSager\source\repos\Number Guessing Game\Number Guessing Game\bin\Debug\Number Guessing Game.exe.config
+C:\Users\DoctorSager\source\repos\Number Guessing Game\Number Guessing Game\bin\Debug\Number Guessing Game.exe
+C:\Users\DoctorSager\source\repos\Number Guessing Game\Number Guessing Game\bin\Debug\Number Guessing Game.pdb
+C:\Users\DoctorSager\source\repos\Number Guessing Game\Number Guessing Game\obj\Debug\Number Guessing Game.csproj.AssemblyReference.cache
+C:\Users\DoctorSager\source\repos\Number Guessing Game\Number Guessing Game\obj\Debug\Number_Guessing_Game.Form1.resources
+C:\Users\DoctorSager\source\repos\Number Guessing Game\Number Guessing Game\obj\Debug\Number_Guessing_Game.Properties.Resources.resources
+C:\Users\DoctorSager\source\repos\Number Guessing Game\Number Guessing Game\obj\Debug\Number Guessing Game.csproj.GenerateResource.cache
+C:\Users\DoctorSager\source\repos\Number Guessing Game\Number Guessing Game\obj\Debug\Number Guessing Game.csproj.CoreCompileInputs.cache
+C:\Users\DoctorSager\source\repos\Number Guessing Game\Number Guessing Game\obj\Debug\Number Guessing Game.exe
+C:\Users\DoctorSager\source\repos\Number Guessing Game\Number Guessing Game\obj\Debug\Number Guessing Game.pdb
